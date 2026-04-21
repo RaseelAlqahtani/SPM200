@@ -1,8 +1,9 @@
 
 
 public class Circle {
-var circle = 4;
+double circle = 4;
         
-	int radius = 0;
+	int radius = 9;
 }
+
 
