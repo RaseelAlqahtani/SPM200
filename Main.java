@@ -2,7 +2,6 @@ import java.util.Scanner
 
 public class Main {
     public static void main(String[] args) {
-        Scanner input = Sc
-        ;
+         Scanner input = new Scanner(System.in);
     }
 }
